@@ -17,7 +17,7 @@ import org.lanqiao.base.dao.Dao;
 public class BookDao extends BaseDao<Book> implements Dao<Book> {
 
 	/**
-	 * 使用ID获取一本书
+	 * 使用ID获取一本书的方法
 	 */
 	@Override
 	public Book getT(int id) {

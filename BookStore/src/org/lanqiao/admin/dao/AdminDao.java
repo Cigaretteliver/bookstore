@@ -14,7 +14,6 @@ public class AdminDao extends BaseDao<Admin> implements Dao<Admin> {
 
 	@Override
 	public Admin getT(int id) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
